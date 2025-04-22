@@ -26,7 +26,7 @@ Authentication: JWT-based
 🔧 Setup Steps
 
 Clone the Project
-git clone https://github.com/your-username/QuickBeats-Music-Website.git
+git clone https://github.com/kashishh0311/QuickBeats-Music-Streaming-Website.git
 cd quickbeats
 
 Install DependenciesBackend:
